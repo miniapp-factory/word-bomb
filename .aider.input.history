@@ -1,0 +1,104 @@
+
+# 2025-12-01 07:32:38.662325
++Code the following app
++```
++The title is "word bomb"
++put i start button to play the game.
++
++The game will randomly choose a category. Your task is to answer correctly through 3 rounds, each with a new rule. Complete all rounds to win! there will be 5 seconds time and if the time is out then the bomb will explode.
++
++Catergory lists:
++
++Fruits
++Animals
++Countries
++Colors
++Sports
++Vehicles
++Planets
++Drinks
++Languages
++Desserts
++Clothing
++Ocean Animals
++Flowers
++
++Round 1 — Basic Answer
++
++Rule: Give any correct example that fits the chosen category.
++Example: Category = Fruits → valid answers: Banana, Apple, Mango
++
++Round 2 — Starts With a Given Letter
++
++Rule: The game gives a random starting letter.
++You must answer something in the same category that starts with that letter.
++Example: Category = Animals, Letter = C → valid answers: Cat, Camel, Cheetah
++
++
++Round 3 — Syllable Rule
++
++Rule: The game now requires an answer from the same category with a specific number of syllables (1, 2, 3, etc.).
++Example: Category = Countries, syllables = 3 → valid answers: Philippines (3), Indonesia (4) → only Philippines is valid.
++
++
++Winning
++
++If all 3 rounds are answered correctly →
++“Congratulations! You win!”
++
++A “Play Again” button will appear to return to the front page.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-01 07:32:38.662874
++Code the following app
++```
++The title is "word bomb"
++put i start button to play the game.
++
++The game will randomly choose a category. Your task is to answer correctly through 3 rounds, each with a new rule. Complete all rounds to win! there will be 5 seconds time and if the time is out then the bomb will explode.
++
++Catergory lists:
++
++Fruits
++Animals
++Countries
++Colors
++Sports
++Vehicles
++Planets
++Drinks
++Languages
++Desserts
++Clothing
++Ocean Animals
++Flowers
++
++Round 1 — Basic Answer
++
++Rule: Give any correct example that fits the chosen category.
++Example: Category = Fruits → valid answers: Banana, Apple, Mango
++
++Round 2 — Starts With a Given Letter
++
++Rule: The game gives a random starting letter.
++You must answer something in the same category that starts with that letter.
++Example: Category = Animals, Letter = C → valid answers: Cat, Camel, Cheetah
++
++
++Round 3 — Syllable Rule
++
++Rule: The game now requires an answer from the same category with a specific number of syllables (1, 2, 3, etc.).
++Example: Category = Countries, syllables = 3 → valid answers: Philippines (3), Indonesia (4) → only Philippines is valid.
++
++
++Winning
++
++If all 3 rounds are answered correctly →
++“Congratulations! You win!”
++
++A “Play Again” button will appear to return to the front page.
++```
++
++Generate an app logo and update the app metadata title and description.
