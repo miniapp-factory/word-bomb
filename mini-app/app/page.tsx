@@ -1,6 +1,6 @@
+"use client";
 import { description, title } from "@/lib/metadata";
 import { generateMetadata } from "@/lib/farcaster-embed";
-use client;
 import { useState } from "react";
 import Game from "@/components/game";
 
